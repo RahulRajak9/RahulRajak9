@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Rahul Rajak 👋
 
-<!--
-**RahulRajak9/RahulRajak9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | Aspiring Software Developer | Frontend & Backend Enthusiast  
 
-Here are some ideas to get you started:
+I'm a passionate IT student focused on building clean, scalable, and user-friendly applications.  
+I enjoy solving real-world problems through code and creating efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- **Languages:** Java, JavaScript, SQL, HTML, CSS
+- **Frameworks:** Spring Boot, Bootstrap
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Concepts:** OOP, REST APIs, MVC, Database Design
+
+---
+
+## 🛠️ Projects
+- **Crumb Control System** – Bakery Management System (Full-stack)
+- **FoodieOnTheRun** – Food Delivery Web App
+- **Sellers Sphere** – E-commerce Management System
+- **Enterprise Scheduling System** – Database-driven workforce scheduler
+
+---
+
+## 🌱 Currently Learning
+- Advanced Java & Spring Boot  
+- API Security  
+- System Design  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+
+---
+
+⭐ *Check out my repositories and feel free to connect!*
