@@ -18,7 +18,7 @@ I love transforming complex requirements into **clean, maintainable, and product
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.comin/rahul-rajak-a127a738b
-- 📧 Email: your@email.com  
+- 📧 Email: mr.rahulsafi@gmail.com  
 
 ---
 
